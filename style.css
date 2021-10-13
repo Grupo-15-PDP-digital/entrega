@@ -26,8 +26,8 @@ body {
     /* asignen aquí las tipografías y colores para todo texto */
     font-family: "Andika New Basic", sans-serif;
     font-weight: 400;
-    background: var(--segundocolor);
-    color: var(--colorclaro);
+    background: var(--colorclaro);
+    color: var(--segundocolor);
 }
 
 strong {
@@ -72,12 +72,12 @@ en todos los casos la imagen debería pesar menos de 300kb
 --------------------------------------------------------------------------------------------- */
 
 header {
-    background-color: var(--segundocolor);
+    background-color: var(--colorclaro);
     background-image: url("img/relacion-3x4.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: var(--colorclaro);
+    color: var(--primercolor);
 }
 
 @media (min-width: 576px) {
