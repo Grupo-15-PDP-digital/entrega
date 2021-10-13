@@ -47,7 +47,7 @@ p.lead {
 }
 
 a {
-    color: var(--primercolor);
+    color: var(--tercercolor);
     text-decoration: underline;
 }
 
@@ -130,7 +130,7 @@ footer a {
 
 footer a:hover {
     text-decoration: none;
-    color: var(--colorclaro);
+    color: var(--primercolor);
 }
 
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
