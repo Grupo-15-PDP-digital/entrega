@@ -197,24 +197,18 @@
         <script>
             var ctx = document.getElementById("nuestroGrafico");
             var nuestroGrafico = new Chart(ctx, {
-                type: "line",
-                const data = {
-  labels: [
-    'Tala indiscriminada de árboles',
-    'Incendios',
-    'Uso de suelo para construir en ellos'
-  ],
-  datasets: [{
-    label: 'Causas de la Deforestación',
-    data: [540, 140, 320],
-    backgroundColor: [
-      'rgb(38, 110, 171)',
-      'rgb(124, 49, 4)',
-      'rgb(130, 163, 74)'
-    ],
-    hoverOffset: 4
-  }]
-};
+                type: "doughnut",
+                data: {
+                    labels: ["Tala indiscriminada de árboles", "Incendios", "Uso de suelo para construir en ellos"],
+                    datasets: [
+                        {
+                            label: "Causas de la Deforestación",
+                            data: [540, 140,320],
+                            backgroundColor: ["#266EAB", "#7C3104", "#82A34A"],
+                            borderWidth: 4,
+                        },
+                    ],
+                },
                 options: {
                     scales: {
                         y: {
