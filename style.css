@@ -47,7 +47,7 @@ p.lead {
 }
 
 a {
-    color: var(--tercercolor);
+    color: var(--primercolor);
     text-decoration: underline;
 }
 
@@ -77,7 +77,7 @@ header {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: var(--primercolor);
+    color: var(--tercercolor);
 }
 
 @media (min-width: 576px) {
