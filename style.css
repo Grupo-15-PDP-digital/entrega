@@ -115,22 +115,22 @@ main {
 }
 
 aside {
-    background: var(--tercercolor);
-    color: var(--coloroscuro);
+    background: var(--primercolor);
+    color: var(--colorclaro);
 }
 
 footer {
-    color: var(--segundocolor);
+    color: var(--tercercolor);
 }
 
 footer a {
     text-decoration: none;
-    color: var(--segundocolor);
+    color: var(--tercercolor);
 }
 
 footer a:hover {
     text-decoration: none;
-    color: var(--coloroscuro);
+    color: var(--colorclaro);
 }
 
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
