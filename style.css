@@ -143,7 +143,7 @@ footer a:hover {
 
 .card,
 .card-img-top {
-    background: var(--coloroscuro);
+    background: var(--colorclaro);
     border: none;
     border-radius: 0 0;
 }
