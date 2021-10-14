@@ -54,7 +54,7 @@ a {
 }
 
 a:hover {
-    color: var(--colorclaro);
+    color: var(--segundocolor);
     text-decoration: none;
 }
 
