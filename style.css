@@ -143,7 +143,7 @@ footer a:hover {
 
 .card,
 .card-img-top {
-    background: var(--colorclaro);
+    background: var(--segundocolor);
     border: none;
     border-radius: 0 0;
 }
@@ -166,7 +166,7 @@ footer a:hover {
     cursor: pointer;
 }
 
-.modal h6.cart-title {
+.modal h5.cart-title {
     font-size: 0.9rem;
     font-weight: 400;
 }
