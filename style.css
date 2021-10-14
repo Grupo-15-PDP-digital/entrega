@@ -79,7 +79,7 @@ header {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: var(--primercolor);
+    color: var(--coloroscuro);
 }
 
 @media (min-width: 576px) {
