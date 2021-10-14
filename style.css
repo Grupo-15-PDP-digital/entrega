@@ -27,7 +27,7 @@ body {
     font-family: "Helvetica", sans-serif;
     font-weight: 400;
     background: var(--primercolor);
-    color: var(--coloroclaro);
+    color: var(--coloroscuro);
 
 }
 
@@ -118,7 +118,7 @@ main {
 
 aside {
     background: var(--primercolor);
-    color: var(--coloroscuro);
+    color: var(--colorclaro);
 }
 
 footer {
