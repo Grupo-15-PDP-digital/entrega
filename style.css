@@ -26,7 +26,7 @@ body {
     /* asignen aquí las tipografías y colores para todo texto */
     font-family: "Helvetica", sans-serif;
     font-weight: 400;
-    background: var(--tercercolor);
+    background: var(--colorclaro);
     color: var(--coloroscuro);
 
 }
@@ -54,7 +54,7 @@ a {
 }
 
 a:hover {
-    color: var(--colorclaro);
+    color: var(--tercercolor);
     text-decoration: none;
 }
 
