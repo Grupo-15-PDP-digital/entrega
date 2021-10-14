@@ -132,7 +132,7 @@ footer a {
 
 footer a:hover {
     text-decoration: none;
-    color: var(--colorclaro);
+    color: var(--tercercolor);
 }
 
 /* ---------------------------------------- IMPORTANTE ----------------------------------------
